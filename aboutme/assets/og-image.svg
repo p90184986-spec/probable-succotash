@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a2e"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4b7df3" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#4b7df3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1050" cy="90" r="430" fill="url(#glow)"/>
+  <circle cx="1130" cy="580" r="260" fill="#5de0b2" opacity=".12"/>
+  <rect x="74" y="70" width="64" height="64" rx="18" fill="#fff" opacity=".12"/>
+  <circle cx="129" cy="123" r="22" fill="#5de0b2"/>
+  <text x="106" y="134" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700">PF</text>
+  <text x="158" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="2">PETER F. PLAZA</text>
+  <text x="158" y="137" fill="#93a3ba" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">SEO CONSULTANT</text>
+  <text x="74" y="310" fill="#fff" font-family="Arial, sans-serif" font-size="64" font-weight="700">Get found by the customers</text>
+  <text x="74" y="386" fill="#6f96ff" font-family="Arial, sans-serif" font-size="64" font-weight="700">already searching.</text>
+  <text x="78" y="462" fill="#aebbd0" font-family="Arial, sans-serif" font-size="27">Clear strategy. Useful content. Measurable organic growth.</text>
+  <rect x="78" y="520" width="300" height="4" rx="2" fill="#5de0b2"/>
+</svg>
