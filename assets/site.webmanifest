@@ -1,0 +1,16 @@
+{
+  "name": "Peter F. Plaza — SEO Consultant",
+  "short_name": "SEO Consultant",
+  "description": "Independent full-service SEO consultant website template.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
